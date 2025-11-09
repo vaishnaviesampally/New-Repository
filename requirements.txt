@@ -1,0 +1,12 @@
+# BMI Calculator Project Requirements
+
+# Core dependency for web-based BMI Calculator (UI)
+streamlit
+
+# Optional: For data handling and visualization (can remove if not needed)
+pandas
+matplotlib
+
+# Optional: For testing and code formatting (good for GitHub projects)
+pytest
+black
